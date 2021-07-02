@@ -1,0 +1,22 @@
+.addCourseRow{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+
+}
+
+#courseStudentTable{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#addStudentBtn {
+    margin-left: 5%;
+}
+
+/*Course Assignment View design styles*/
+#courseAssignment {
+    width: 90%;
+    margin: 0 auto;
+}
